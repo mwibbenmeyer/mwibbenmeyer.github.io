@@ -11,4 +11,4 @@ redirect_from:
 
 ------
 
-You can view my most recent CV [here](https://jacobgellman.github.io/files/gellman_cv.pdf).
+You can view my most recent CV [here](https://mwibbenmeyer.github.io/files/curriculum-vitae.pdf).
