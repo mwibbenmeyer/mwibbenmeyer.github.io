@@ -27,6 +27,8 @@ author_profile: true
 
 * "An equilibrium model of land use and land use change" (with Ben Leard)
 
+* "Access issues exacerbate wildfire on public lands" (with B. Leonard and A.J. Plantinga)
+
 * "A dynamic model of wildfire suppression, temporal mismatch, and long-term risk management" (with Becky Epanchin-Niell)
 
 **Published Works**
