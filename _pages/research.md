@@ -16,7 +16,7 @@ author_profile: true
 
 * "Inequality and government responsiveness: Evidence from salient wildfire events" (with Sarah Anderson and Andrew Plantinga) [in revision, available upon request]
 
-	* We frequently assume, and some evidence has shown, that in a democratic system public par- ticipation in governmental decisions leads to better outcomes. In this paper, we use plausibly exogenous focusing events, which raise the salience of an issue among the public, to show that public agency decision-making based on public demands can raise equity concerns. Focusing specifically on the case of wildfires and wildfire risk management in the western U.S., we find that when communities experience nearby wildfire events, it raises the salience of wildfire risk and leads agencies to place a greater number of wildfire risk reduction projects nearby. However, salience-based decision-making does not benefit all communities equally. We find that nearby fires increase rates of fuel treatment particularly among whiter and more highly educated com- munities. Although there is growing evidence of inequality in legislative representation, this is the first evidence we know of showing that public agencies perpetuate inequality, via the behavioral biases of the public.
+	* We frequently assume, and some evidence has shown, that in a democratic system public participation in governmental decisions leads to better outcomes. In this paper, we use plausibly exogenous focusing events, which raise the salience of an issue among the public, to show that public agency decision-making based on public demands can raise equity concerns. Focusing specifically on the case of wildfires and wildfire risk management in the western U.S., we find that when communities experience nearby wildfire events, it raises the salience of wildfire risk and leads agencies to place a greater number of wildfire risk reduction projects nearby. However, salience-based decision-making does not benefit all communities equally. We find that nearby fires increase rates of fuel treatment particularly among whiter and more highly educated com- munities. Although there is growing evidence of inequality in legislative representation, this is the first evidence we know of showing that public agencies perpetuate inequality, via the behavioral biases of the public.
 
 * "Wildfire threatens outdoor recreation in the Western US" (with Jacob Gellman and Margaret Walls) [in revision, available upon request]
 
@@ -27,7 +27,7 @@ author_profile: true
 
 * "An equilibrium model of land use and land use change" (with Ben Leard)
 
-* "Access issues exacerbate wildfire on public lands" (with B. Leonard and A.J. Plantinga)
+* "Access issues exacerbate wildfire on public lands" (with Bryan Leonard and Andrew Plantinga)
 
 * "A dynamic model of wildfire suppression, temporal mismatch, and long-term risk management" (with Becky Epanchin-Niell)
 
