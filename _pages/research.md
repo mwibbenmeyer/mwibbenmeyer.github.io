@@ -23,14 +23,25 @@ author_profile: true
 
 	* Wildfire activity in the western US is increasing as outdoor recreation is growing in popularity and economic importance. Camping activity tends to coincide with fire season; however, relatively little is known about the impacts of fire on recreation. This study assesses behavioral responses of outdoor recreationists to wildfire and smoke in the western US. We link individual campground transactions from Recreation.gov, which details 25 million transactions at over 1,000 federally-managed campgrounds over the past ten years to daily satellite data on smoke and wildfire activity. The research highlights the potential for recreation reservation records to contribute to a growing body of work that uses large-scale regional or national to study recreation demand. In the presence of fire and smoke, campers cancel more trips and make fewer new reservations. Still, a strikingly high proportion of recreationists are exposed to smoke each year. From 2008 to 2016, 15.9% of visitor-days were affected by smoke, including 28.5% of unique visitors. About 2.6% of visitors camped within 20 km of an active fire. These findings highlight the growing impacts of wildfire on human activity in the west.
 
+* "The Distributional Incidence of Wildfire Hazard in the Western United States" (with Molly Robertson)
+
+	* Increases in wildfire activity in the western United States in recent years have led to significant property loss in wildland-urban interface areas, raising difficult questions for policymakers regarding who should bear these costs. Yet the distributional incidence of wildfire hazard is not well understood, despite its relevance for current policy debates related to wildfire and increased attention to how environmental and climate-related risks are distributed across socioeconomic groups. This paper fills this gap by combining property-level data on locations and values of residential properties, demographics, wildfire hazard, and historical wildfire perimeters. We find that while there is substantial heterogeneity within high wildfire hazard areas, wildfire risk to properties is disproportionately borne by high-income, white, and older residents, and owners of high-value properties. Properties whose value is the highest ten percent among properties in the same county are on average seventy percent more likely to be in high wildfire hazard areas than median value properties. Twenty percent of properties within 2011-2018 fire perimeters were in the top decile for property value among homes in the same county. 
+
+* "Access Issues Exacerbate Wildfire on Public Lands" (with Bryan Leonard and Andrew Plantinga)
+
+	* Wildfire activity in the western United States has been increasing since the 1970s, with many fires occurring on land managed by government agencies. Significant areas of public lands are surrounded by private land and lack road access, making them legally inaccessible to federal and state agencies and potentially constraining management and suppression of wildfires. In this paper, we assemble data on all fires that started on public lands in the western US over the period 1992--2015 and estimate the effect of legal accessibility on fire size. We find that ignitions are 14-23% more likely to become large if they occur on inaccessible land. We provide evidence that this effect may be driven in part by agencies' inability to conduct fuels management and in part by slower suppression responses.
+
 **Works in Progress**
-* "The distributional incidence of wildfire risk" (with Molly Robertson)
 
-* "A dynamic model of land use and land use change in the US" (with Ben Leard)
+* "A Dynamic Model of Land Use Change in the US: Implications for Carbon Policy" (with Ben Leard)
 
-* "Access issues exacerbate wildfire on public lands" (with Bryan Leonard and Andrew Plantinga)
+* "Lost Recreation Benefits Due to Wildfire Smoke: A Travel Cost Approach" (with Jacob Gellman and Margaret Walls)
 
-* "A dynamic model of wildfire suppression, temporal mismatch, and long-term risk management" (with Becky Epanchin-Niell)
+* "Sorting Over Wildfire Risk in the Wildland-Urban Interface" (with Connor Lennon, Lala Ma, and Margaret Walls)
+
+* "A Review of the Costs of Wildfire Impacts to Water Quality" (with Jose Sanchez and Matt Sloggy)
+
+* "A Dynamic Model of Wildfire Suppression, Temporal Mismatch, and Long-Term Risk Management" (with Becky Epanchin-Niell)
 
 **Published Works**
 
