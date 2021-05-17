@@ -10,11 +10,12 @@ author_profile: true
 ------
 
 **Working Papers**
-* ["Endogenous outcomes from natural disasters: Wildfires and wildfire suppression"](/files/fire-suppression.pdf) (with Andrew Plantinga and Randy Walsh) [submitted]
+* ["Priorities and Effectiveness in Wildfire Management: Evidence from Fire Spread in the Western United States"](/files/priorities_and_effectiveness.pdf) (with Andrew Plantinga and Randy Walsh) [submitted]
 
-	* The evolution of risk under climate change depends both on how altered natural systems affect hazards and how humans respond. To evaluate endogenous adaptation to wildfire risk we estimate an empirical model of wildfire management that identifies the effect of threatened resources on wildfire suppression. Working with a state-of-the-art wildfire simulation tool we pilot the synthesis of ecological and economic models for improved environmental risk assessment. Results of this analysis highlight the importance of ecological processes and endogenous suppression responses for the housing stock (quantities and values) and for predicting potential property losses from climate-driven increases in wildfire hazard.
+	* Within the western United States, wildfire activity and costs of fighting wildfires have increased substantially over the past several decades. Yet surprisingly little is known about the effectiveness of wildfire suppression on large fires or about how wildfire incident managers use their significant discretion to prioritize resources threatened in wildfire incidents. We investigate priorities and effectiveness of wildfire suppression using a novel empirical strategy that compares 1,500 historical fire perimeters with the spatial distribution of assets at risk to identify determinants of wildfire suppression efforts. We find that fires are more likely to stop spreading as they approach homes, particularly when those homes are of higher value. This effect of threatened assets persists after controlling for physical factors (fuels, landscape, and weather) using outputs from a state-of-the-art wildfire simulation tool, and the probability that fire spread will be halted is affected by characteristics of homes 1–2 km from a fire’s edge. Our results provide evidence that wildfire suppression can substantively affect outcomes from wildfires but that some groups may benefit more from wildfire management than others.
 
-* ["Inequality and government responsiveness: Evidence from salient wildfire events"](/files/agency-responsiveness.pdf) (with Sarah Anderson and Andrew Plantinga) [submitted]
+
+* ["Inequality in Agency Responsiveness: Evidence from Salient Wildfire Events"](/files/agency-responsiveness.pdf) (with Sarah Anderson and Andrew Plantinga) [submitted, [coverage in the New York Times](https://www.nytimes.com/2020/12/16/climate/wildfires-minorities-aid.html)]
 
 	* We frequently assume, and some evidence has shown, that in a democratic system public participation in governmental decisions leads to better outcomes. In this paper, we use plausibly exogenous focusing events, which raise the salience of an issue among the public, to show that public agency decision-making based on public demands can raise equity concerns. Focusing specifically on the case of wildfires and wildfire risk management in the western U.S., we find that when communities experience nearby wildfire events, it raises the salience of wildfire risk and leads agencies to place a greater number of wildfire risk reduction projects nearby. However, salience-based decision-making does not benefit all communities equally. We find that nearby fires increase rates of fuel treatment particularly among whiter and more highly educated com- munities. Although there is growing evidence of inequality in legislative representation, this is the first evidence we know of showing that public agencies perpetuate inequality, via the behavioral biases of the public.
 
@@ -25,7 +26,7 @@ author_profile: true
 **Works in Progress**
 * "The distributional incidence of wildfire risk" (with Molly Robertson)
 
-* "An equilibrium model of land use and land use change" (with Ben Leard)
+* "A dynamic model of land use and land use change in the US" (with Ben Leard)
 
 * "Access issues exacerbate wildfire on public lands" (with Bryan Leonard and Andrew Plantinga)
 
